@@ -675,3 +675,8 @@ full.select(corr("daily_store_sales", "transactions")).collect()[0][0] # 84% pea
         
 # except Exception as e:
 #     print(f'Error while merging Locale_Name table: {e}')
+
+# COMMAND ----------
+
+# DBTITLE 1,Test Github Integration
+# Testing with new cell
